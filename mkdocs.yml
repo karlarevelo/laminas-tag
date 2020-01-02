@@ -7,3 +7,6 @@ nav:
 site_name: laminas-tag
 site_description: Laminas\Tag
 repo_url: 'https://github.com/laminas/laminas-tag'
+extra:
+    project: Components
+    project_url: 'https://docs.laminas.dev'
